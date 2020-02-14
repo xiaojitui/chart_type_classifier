@@ -1,0 +1,2 @@
+download pre-trained: resnet_v2_50 
+download pre-trained: inception_v3
